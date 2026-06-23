@@ -1,5 +1,5 @@
-# 💫 About Me:
- I’m currently working on Login & Registration System, Cybersecurity Honeypot, and Log Monitoring Projects<br><br> I’m looking to collaborate on Beginner-Friendly Open Source Projects<br><br> I’m looking for help with Full-Stack Development and Cybersecurity<br><br> I’m currently learning C++, HTML, CSS, Tailwind CSS, mongodb,Supabase, react,js, postman and Cybersecurity<br><br> Ask me about C++, Programming Basics, and Student Projects<br><br> Fun fact: I love turning ideas into real projects and continuously learning new technologies.
+#  About Me:
+I’m currently working on Login & Registration System, Cybersecurity Honeypot, and Log Monitoring Projects<br><br> I’m looking to collaborate on Beginner-Friendly Open Source Projects<br><br> I’m looking for help with Full-Stack Development and Cybersecurity<br><br> I’m currently learning C++, HTML, CSS, Tailwind CSS, mongodb,Supabase, react,js, postman and Cybersecurity<br><br> Ask me about C++, Programming Basics, and Student Projects<br><br> Fun fact: I love turning ideas into real projects and continuously learning new technologies.
 
 
 ## 🌐 Socials:
